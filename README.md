@@ -37,7 +37,7 @@
 <br>
 
 ## 🎓 About me
-<img align="right" alt="Coding" width="500" height="250" src="https://www.analyticsinsight.net/wp-content/uploads/2022/05/Why-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif"><br>
+<img align="right" alt="Coding" width="400" height="200" src="https://www.analyticsinsight.net/wp-content/uploads/2022/05/Why-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif"><br>
 - I'm a Cyber Security Expert.
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with Tech News, exploring Web Development, and diving into Cyber Security.
