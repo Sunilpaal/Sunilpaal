@@ -2,7 +2,7 @@
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/hirdesh-kumar-yadav/)! -->
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Data+Visualization+Specialist;Passionate+Web+Developer;Data+Analyst+with+Expertise+in+Power+BI;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Cyber+Security;Passionate+Web+Developer;Freelancer)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/sunil-pal-b6897820a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -37,11 +37,11 @@
 <br>
 
 ## 🎓 About me
-<img align="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif"><br>
-- I'm a Cyber Security Expert
+<img align="right" alt="Coding" width="500" height="250" src="https://www.analyticsinsight.net/wp-content/uploads/2022/05/Why-cybersecurity-jobs-should-be-more-than-We-didnt-get-hacked.gif"><br>
+- I'm a Cyber Security Expert.
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with Tech News, exploring Web Development, and diving into Cyber Security.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunilpaal&label=Profile%20views&color=0e75b6&style=flat" alt=Sunilpaal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunilpaal&label=Profile%20views&color=0e75b6&style=flat" alt="Sunilpaal" /> </p>
 
 <!-- ##  ✔ Technologies  -->
 
@@ -107,7 +107,7 @@
   <a href="https://github.com/Sunilpaal?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sunilpaal"/>
   </a>-->
-<a href="https://github.com/kumarsam1503?tab=followers">
+<a href="https://github.com/Sunilpaal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sunilpaal?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
 
